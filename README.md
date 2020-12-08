@@ -5,7 +5,7 @@ But if the player runs away from the watchmen and if the distance between them i
 There is also a safe point for the player to rest.
 
 To run this stimulation : 
-1. Download the zip folder.
+1. Download the zip folder ie. data.zip and the folders too.
 2. Extract all the files from it.
 3. Run the watchmen stimulation.exe
 4. Enjoy the stimulation!!
